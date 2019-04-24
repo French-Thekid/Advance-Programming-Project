@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FARM Server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/FARM_Server_jar/FARM Server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
